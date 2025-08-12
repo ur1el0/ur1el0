@@ -1,5 +1,5 @@
 # Hi, I'm Roosc
-Welcome to my GitHub profile! I'm a Student] passionate about [your interests, e.g., building web apps, machine learning, open-source contributions]. I love solving problems and creating tools that make life easier.
+Welcome to my GitHub profile! I'm a Student passionate about [your interests, e.g., building web apps, machine learning, open-source contributions]. I love solving problems and creating tools that make life easier.
 
 ## 🔧 Technologies & Tools
 
