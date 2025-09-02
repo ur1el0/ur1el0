@@ -12,9 +12,8 @@ Welcome to my GitHub profile! I'm a passionate student diving into the world of 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 - **Languages**: Python, JavaScript, C++, Java
-- **Frameworks**: React, Django
-- **Tools**: Git, Docker, VS Code
-- **Currently Learning**: Rust, Kubernetes
+- **Tools**: Git, VS Code
+- **Currently Learning**: Basic Web Development, Full Stack Java
 
 ---
 
