@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate student diving into the world of 
 Feel free to reach out if you'd like to collaborate, discuss tech, or just chat! 😄
 
 - **Email**: [zanoroosc@gmail.com](mailto:zanoroosc@gmail.com)
-- **LinkedIn**: [Roosc Zaño](https://www.linkedin.com/in/roosc-zano)
+- **LinkedIn**: [Roosc Zaño](www.linkedin.com/in/roosc-zaño-08568a357)
 - **Instagram**: [@fuschiapenk](https://www.instagram.com/fuschiapenk)
 
 ---
