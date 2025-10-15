@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Roosc Zaño!
+# Hi, I'm Roosc Zaño!
 
-Welcome to my GitHub profile! I'm a passionate student diving into the world of technology and coding. Excited to learn, build, and collaborate on innovative projects! 🚀
+Welcome to my GitHub profile! I'm a passionate student diving into the world of technology and coding. Excited to learn, build, and collaborate on innovative projects! 
 
 ---
 
-## 🔧 Technologies & Tools
+##  Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate student diving into the world of 
 
 ---
 
-## 🌱 What I'm Working On
+## What I'm Working On
 
 - Exploring new technologies and frameworks to expand my skillset.
 - Building projects to apply my knowledge in real-world scenarios.
@@ -25,9 +25,9 @@ Welcome to my GitHub profile! I'm a passionate student diving into the world of 
 
 ---
 
-## 📫 Get in Touch
+##  Get in Touch
 
-Feel free to reach out if you'd like to collaborate, discuss tech, or just chat! 😄
+Feel free to reach out if you'd like to collaborate, discuss tech, or just chat! 
 
 - **Email**: [zanoroosc@gmail.com](mailto:zanoroosc@gmail.com)
 - **LinkedIn**: [Roosc Zaño](www.linkedin.com/in/roosc-zaño-08568a357)
@@ -35,9 +35,9 @@ Feel free to reach out if you'd like to collaborate, discuss tech, or just chat!
 
 ---
 
-## 🗂️ Explore My Repositories
+## Explore My Repositories
 
-Check out my projects below and let me know if you'd like to contribute or have feedback! Let's build something awesome together! 💻
+Check out my projects below and let me know if you'd like to contribute or have feedback! Let's build something awesome together! 
 
 ---
 
