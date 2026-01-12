@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate student diving into the world of 
 
 - **Languages**: Python, JavaScript, C++, Java
 - **Tools**: Git, VS Code
-- **Currently Learning**: Basic Web Development, Full Stack Java
+- **Currently Learning**: Web Development, Java Hierarchies
 
 ---
 
