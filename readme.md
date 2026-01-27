@@ -6,48 +6,47 @@ Welcome to my GitHub profile! I'm currently diving into creating dynamic web app
 
 ## 🛠️ Tech Stacks
 
-### **Frontend**
+### **Programming Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-945DB7?style=flat&logo=visual-studio&logoColor=white)
+
+### **Frontend**
+![HTML](https://img.shields.io/badge/-HTML-E34C26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white)
 
 ### **Backend**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+
+### **Database**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### **Tools & Version Control**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
-- **Languages**: Python, JavaScript, C++, Java
-- **Frontend**: Tailwind CSS, Bootstrap, Node.js
-- **Backend**: Django
-- **Currently Mastering**: Full-stack web development with Django & Node.js
+### **Platforms**
+![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
 
----
-
-## 🚀 What I'm Working On
-
-- 🔧 Learning to make full-stack web applications with **Django** backend and **Tailwind CSS** frontend
-- ⚡ Creating responsive, modern UIs with Tailwind CSS
-- 🌐 Learning how to build RESTful APIs with Django
-- 📦 Exploring Node.js ecosystem for modern JavaScript development
+### **Cyber Security**
+![WebGoat](https://img.shields.io/badge/-WebGoat-FF9500?style=flat&logo=owasp&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/-BurpSuite-FF6633?style=flat&logo=burp&logoColor=white)
 
 ---
 
-## 📚 Featured Skills
-
-| **Area** | **Skills** |
-|----------|-----------|
-| **Backend** | Django, Django REST Framework, Python Web Development |
-| **Frontend** | Tailwind CSS, Bootstrap, Responsive Design, Node.js |
-| **Full-Stack** | Modern web applications, REST APIs, Database Design |
-| **Tools** | Git, VS Code, Linux, Command Line |
-
----
-
-## 💬 Get in Touch
+## Get in Touch
 
 Let's connect and collaborate on exciting projects!
 
@@ -57,12 +56,12 @@ Let's connect and collaborate on exciting projects!
 
 ---
 
-## 📂 Explore My Projects
+## Explore My Projects
 
-Check out my repositories below and feel free to fork, star, or contribute! Let's build something amazing together! 🚀
+Check out my repositories below and feel free to fork, star, or contribute! Let's build something amazing together! 
 
 ---
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-**Happy Coding! 💻**
+**Happy Coding!**
