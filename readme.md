@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm currently diving into creating dynamic web app
 
 ### **Backend**
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white)
 
 ### **Database**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
