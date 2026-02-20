@@ -40,6 +40,7 @@ Welcome to my GitHub profile! I'm currently diving into creating dynamic web app
 ### **Platforms**
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Fedora](https://img.shields.io/badge/LINUX-Fedora-blue?style=flat&logo=Fedora)
 
 ### **Cyber Security**
 ![WebGoat](https://img.shields.io/badge/-WebGoat-FF9500?style=flat&logo=owasp&logoColor=white)
