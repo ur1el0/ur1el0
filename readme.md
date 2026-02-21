@@ -46,6 +46,7 @@ Welcome to my GitHub profile! I'm currently diving into creating dynamic web app
 ### **Cyber Security**
 ![WebGoat](https://img.shields.io/badge/-WebGoat-FF9500?style=flat&logo=owasp&logoColor=white)
 ![BurpSuite](https://img.shields.io/badge/-BurpSuite-FF6633?style=flat&logo=burp&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-black?style=flat&logo=cisco)
 
 ---
 
