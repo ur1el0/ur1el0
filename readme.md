@@ -38,6 +38,15 @@ Welcome to my GitHub profile! I'm currently diving into creating dynamic web app
 
 ### **Tools & Version Control**
 
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white)
+
+### **Database**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white)
+
+### **Tools & Version Control**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -55,6 +64,11 @@ Welcome to my GitHub profile! I'm currently diving into creating dynamic web app
 
 ### **Cyber Security**
 
+![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Fedora](https://img.shields.io/badge/LINUX-Fedora-blue?style=flat&logo=Fedora)
+
+### **Cyber Security**
 ![WebGoat](https://img.shields.io/badge/-WebGoat-FF9500?style=flat&logo=owasp&logoColor=white)
 ![BurpSuite](https://img.shields.io/badge/-BurpSuite-FF6633?style=flat&logo=burp&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat&logo=cisco)
@@ -73,10 +87,18 @@ Let's connect and collaborate on exciting projects!
 
 ## Explore My Projects
 
+<<<<<<< HEAD
 Check out my repositories below and feel free to fork, star, or contribute! Let's build something amazing together!
 
 ---
 
 _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
+=======
+Check out my repositories below and feel free to fork, star, or contribute! Let's build something amazing together! 
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+>>>>>>> cadfc0130c59a12e277757e5120256f6047a2d3b
 
 **Happy Coding!**
