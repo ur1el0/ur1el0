@@ -87,18 +87,15 @@ Let's connect and collaborate on exciting projects!
 
 ## Explore My Projects
 
-<<<<<<< HEAD
 Check out my repositories below and feel free to fork, star, or contribute! Let's build something amazing together!
 
 ---
 
 _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
-=======
 Check out my repositories below and feel free to fork, star, or contribute! Let's build something amazing together! 
 
 ---
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
->>>>>>> cadfc0130c59a12e277757e5120256f6047a2d3b
 
 **Happy Coding!**
