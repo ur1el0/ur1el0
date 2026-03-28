@@ -62,11 +62,6 @@ Welcome to my GitHub profile! I'm currently diving into creating dynamic web app
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Linux Kernel](https://img.shields.io/badge/-Linux%20Kernel-000000?style=flat&logo=linux&logoColor=white)
 
-### **Cyber Security**
-
-![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/LINUX-Fedora-blue?style=flat&logo=Fedora)
 
 ### **Cyber Security**
 ![WebGoat](https://img.shields.io/badge/-WebGoat-FF9500?style=flat&logo=owasp&logoColor=white)
