@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm currently diving into creating dynamic web app
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-945DB7?style=flat&logo=visual-studio&logoColor=white)
@@ -29,6 +30,7 @@ Welcome to my GitHub profile! I'm currently diving into creating dynamic web app
 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-A30000?style=flat&logo=djangorestframework&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white)
 
 ### **Database**
@@ -38,8 +40,8 @@ Welcome to my GitHub profile! I'm currently diving into creating dynamic web app
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-
 ### **Tools & Version Control**
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -55,8 +57,8 @@ Welcome to my GitHub profile! I'm currently diving into creating dynamic web app
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Linux Kernel](https://img.shields.io/badge/-Linux%20Kernel-000000?style=flat&logo=linux&logoColor=white)
 
-
 ### **Cyber Security**
+
 ![WebGoat](https://img.shields.io/badge/-WebGoat-FF9500?style=flat&logo=owasp&logoColor=white)
 ![BurpSuite](https://img.shields.io/badge/-BurpSuite-FF6633?style=flat&logo=burp&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat&logo=cisco)
@@ -80,10 +82,10 @@ Check out my repositories below and feel free to fork, star, or contribute! Let'
 ---
 
 _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
-Check out my repositories below and feel free to fork, star, or contribute! Let's build something amazing together! 
+Check out my repositories below and feel free to fork, star, or contribute! Let's build something amazing together!
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+_"Code is like humor. When you have to explain it, it's bad."_ – Cory House
 
 **Happy Coding!**
