@@ -9,14 +9,14 @@ Welcome to my Github profile! I'm a 4th year IT student specializing in web and 
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=ur1el0&show_icons=true&theme=transparent&include_all_commits=false" 
+        src="https://github-readme-stats.vercel.app/api?username=ur1el0&show_icons=true&theme=transparent&hide_border=true&include_all_commits=false" 
         alt="GitHub Stats" 
         width="400"
       />
     </td>
     <td>
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ur1el0&hide_progress&theme=transparent&layout=compact&langs_count6&exclude&hide=css,html" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ur1el0&hide_progress&theme=transparent&hide_border=true&layout=compact&langs_count=6&exclude&hide=css" 
       alt="Top Languages" 
       width="305" 
       height="auto"
