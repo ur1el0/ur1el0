@@ -4,23 +4,24 @@ Welcome to my Github profile! I'm a 4th year IT student specializing in web and 
 
 ## GitHub Stats
 
-
-<table align="center" border="0">
+<table align="center" border="0" style="border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="padding: 10px; text-align: center;">
       <img 
         src="https://github-readme-stats.vercel.app/api?username=ur1el0&show_icons=true&theme=transparent&hide_border=true&include_all_commits=false" 
         alt="GitHub Stats" 
-        width="400"
+        style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0 auto;"
       />
     </td>
-    <td>
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ur1el0&hide_progress&theme=transparent&hide_border=true&layout=compact&langs_count=6&exclude&hide=css" 
-      alt="Top Languages" 
-      width="305" 
-      height="auto"
-    />
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; text-align: center;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ur1el0&hide_progress&theme=transparent&hide_border=true&layout=compact&langs_count=6&exclude&hide=css" 
+        alt="Top Languages" 
+        style="width: 100%; max-width: 305px; height: auto; display: block; margin: 0 auto;"
+      />
     </td>
   </tr>
 </table>
