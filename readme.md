@@ -1,10 +1,17 @@
-# Hi, I'm Roosc Zaño! 👋
+# Hi, I'm Roosc Zaño
 
-Welcome to my GitHub profile! I'm currently diving into creating dynamic web applications using Django, Node.js, and CSS Frameworks. Excited to learn, build, and collaborate on innovative projects!
+Welcome to my Github profile! I'm a 4th year IT student specializing in web and mobile development.
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ur1el0&show_icons=true&theme=transparent&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ur1el0&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
-## 🛠️ Tech Stacks
+<details>
+<summary><b>Tech Stack (Click)</b></summary>
 
 ### **Programming Languages**
 
@@ -43,17 +50,17 @@ Welcome to my GitHub profile! I'm currently diving into creating dynamic web app
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-257bd6?style=flat&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-257bd6?style=flat&logo=docker&logoColor=white)
 
 ### **Platforms**
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/LINUX-Fedora-blue?style=flat&logo=Fedora)
+![Fedora](https://img.shields.io/badge/Fedora-blue?style=flat&logo=Fedora)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Linux Kernel](https://img.shields.io/badge/-Linux%20Kernel-000000?style=flat&logo=linux&logoColor=white)
 
@@ -62,3 +69,7 @@ Welcome to my GitHub profile! I'm currently diving into creating dynamic web app
 ![WebGoat](https://img.shields.io/badge/-WebGoat-FF9500?style=flat&logo=owasp&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6600?style=flat&logo=burpsuite&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat&logo=cisco)
+
+### **Deployment**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
