@@ -8,7 +8,7 @@ Welcome to my Github profile! I'm a 4th year IT student specializing in web and 
   <tr>
     <td style="padding: 10px; text-align: center;">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=ur1el0&show_icons=true&theme=transparent&hide_border=true&include_all_commits=false" 
+        src="https://github-stats-extended.vercel.app/api?username=ur1el0&show_icons=true&theme=transparent&hide_border=true&include_all_commits=false" 
         alt="GitHub Stats" 
         style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0 auto;"
       />
@@ -18,7 +18,7 @@ Welcome to my Github profile! I'm a 4th year IT student specializing in web and 
   <tr>
     <td style="padding: 10px; text-align: center;">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ur1el0&hide_progress&theme=transparent&hide_border=true&layout=compact&langs_count=6&exclude&hide=css" 
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=ur1el0&hide_progress&theme=transparent&hide_border=true&layout=compact&langs_count=6&exclude&hide=css" 
         alt="Top Languages" 
         style="width: 100%; max-width: 305px; height: auto; display: block; margin: 0 auto;"
       />
