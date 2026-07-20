@@ -10,7 +10,7 @@ Welcome to my Github profile! I'm a 4th year IT student specializing in web and 
       <img 
         src="https://github-stats-extended.vercel.app/api?username=ur1el0&show_icons=true&theme=transparent&hide_border=true&include_all_commits=false" 
         alt="GitHub Stats" 
-        style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0 auto;"
+        style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0 auto"
       />
     </td>
   </tr>
@@ -20,7 +20,7 @@ Welcome to my Github profile! I'm a 4th year IT student specializing in web and 
       <img 
         src="https://github-stats-extended.vercel.app/api/top-langs/?username=ur1el0&hide_progress&theme=transparent&hide_border=true&layout=compact&langs_count=6&exclude&hide=css,html" 
         alt="Top Languages" 
-        style="width: 100%; max-width: 305px; height: auto; display: block; margin: 0 auto;"
+        style="width: 100%; max-width: 305px; height: auto; display: block; margin: 0 auto"
       />
     </td>
   </tr>
@@ -35,6 +35,7 @@ Welcome to my Github profile! I'm a 4th year IT student specializing in web and 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
