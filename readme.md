@@ -24,6 +24,12 @@ Welcome to my Github profile! I'm a 4th year IT student specializing in web and 
       />
     </td>
   </tr>
+  
+  <tr>
+    <td style="padding: 10px; text-align: center;">
+      <a href="https://ghcommits.com/u/ur1el0"><img src="https://ghcommits.com/api/badge/ur1el0.svg" alt="GitHub Commits Badge" /></a>
+    </td>
+  </tr>
 </table>
 
 ---
