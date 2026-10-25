@@ -1,6 +1,12 @@
 # Hi, I'm Roosc Zaño
 
-Welcome to my Github profile! I'm a 4th year IT student specializing in web and mobile development.
+I'm a BS Information Technology student at Manuel S. Enverga University Foundation, focused on backend and full-stack software development.
+
+I build REST APIs and web applications with Python, Django REST Framework, C#, ASP.NET Core, React, PostgreSQL, and Docker.
+
+In 2026, I completed the Open iT Applied Full Stack Development Bootcamp as a Top Performer in the Full Stack Track and earned Microsoft Certified: Azure Fundamentals (AZ-900).
+
+[Portfolio](https://roosc-zano.vercel.app) · [LinkedIn](https://www.linkedin.com/in/roosc-za%C3%B1o-08568a357/)
 
 ## GitHub Stats
 
