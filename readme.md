@@ -1,12 +1,17 @@
 # Hi, I'm Roosc Zaño
 
-I'm a BS Information Technology student at Manuel S. Enverga University Foundation, focused on backend and full-stack software development.
+I'm a BSIT student and backend-focused software developer at Manuel S. Enverga University Foundation. I build full-stack web and Android apps, and regularly use AI agents like OpenAI Codex and Google Antigravity throughout my workflow.
 
 I build REST APIs and web applications with Python, Django REST Framework, C#, ASP.NET Core, React, PostgreSQL, and Docker.
 
 In 2026, I completed the Open iT Applied Full Stack Development Bootcamp as a Top Performer in the Full Stack Track and earned Microsoft Certified: Azure Fundamentals (AZ-900).
 
 [Portfolio](https://roosc-zano.vercel.app) · [LinkedIn](https://www.linkedin.com/in/roosc-za%C3%B1o-08568a357/)
+
+## Agentic Development
+
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-171717?style=flat&logo=openai&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white)
 
 ## GitHub Stats
 
