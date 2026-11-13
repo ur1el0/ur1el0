@@ -37,10 +37,11 @@ I enjoy working with APIs, databases, business logic, authentication, and the wo
 
 ## Selected Projects
 
-- **UniPM** — Preventive maintenance with offline inspections, role-based workflows, and natural-language analytics.
-- **StudyLens** — Android learning app with OCR and AI study tools.
-- **Enverga Arena** — Athletics management with verified tryouts, results, and reviewed AI recaps.
-- **FlowTrack** — Offline-first Flutter app for sales, inventory, credit tracking, and reporting.
+- **[KapitBayan](https://github.com/ur1el0/KapitBayan)** — Led full-stack development of barangay services for resident requests, queues, assistance, and incident reports.
+- **[Scrib](https://github.com/ur1el0/Scrib)** — Personal multiplayer word game with agentic development, server-validated scoring, and a missed-word solver.
+- **[Paldo](https://github.com/pak-pow/OpenIT_Capstone)** — Backend contributor to a scholarship portal; added role-restricted status changes, data sanitization, authentication, and tests.
+- **[NSync](https://github.com/ur1el0/NSync)** — Android learning app for notes, linked flashcards, reviews, and progress; implemented authenticated API flows and review validation.
+- **[Lock-Ad](https://github.com/ur1el0/Lock-Ad-v3)** — Personal walking-route app with nearby safety signals, incident reports, and advisory scoring.
 
 ## Currently Learning
 
