@@ -1,81 +1,68 @@
 # Hi, I'm Roosc Zaño
 
-I'm a BSIT student and backend-focused software developer at Manuel S. Enverga University Foundation. I build backend APIs, full-stack web apps, and Android apps.
+BSIT student and software developer focused on backend engineering, with experience building full-stack web and Android applications and using agentic development tools such as OpenAI Codex and Google Antigravity.
 
-AI-assisted agentic workflows are part of how I work. I regularly use OpenAI Codex and Google Antigravity to plan, implement, and refine features.
+I enjoy working with APIs, databases, business logic, authentication, and the workflows that connect everything together.
 
-In 2026, I completed the Open iT Applied Full Stack Development Bootcamp as a Top Performer in the Full Stack Track.
+## Tech Stack
 
-[Portfolio](https://roosc-zano.vercel.app) · [LinkedIn](https://www.linkedin.com/in/roosc-za%C3%B1o-08568a357/)
+**Backend & Databases**
 
-## Agentic Development
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-171717?style=flat&logo=openai&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white)
+**Frontend & Mobile**
 
-## GitHub Stats
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-<table align="center" border="0" style="border-collapse: collapse;">
-  <tr>
-    <td style="padding: 10px; text-align: center;">
-      <img 
-        src="https://github-stats-extended.vercel.app/api?username=ur1el0&show_icons=true&theme=transparent&hide_border=true&include_all_commits=false" 
-        alt="GitHub Stats" 
-        style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0 auto"
-      />
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; text-align: center;">
-      <img 
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=ur1el0&hide_progress&theme=transparent&hide_border=true&layout=compact&langs_count=8&exclude&hide=css,html" 
-        alt="Top Languages" 
-        style="width: 100%; max-width: 305px; height: auto; display: block; margin: 0 auto"
-      />
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; text-align: center;">
-      <a href="https://ghcommits.com/u/ur1el0"><img src="https://ghcommits.com/api/badge/ur1el0.svg" alt="GitHub Commits Badge" /></a>
-    </td>
-  </tr>
-</table>
+**Tools & Platforms**
 
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 
-<details>
-<summary><b>Current Project Stack & Certification (Click)</b></summary>
+**Agentic Development**
 
-### **Backend**
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat&logo=django&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+## Selected Projects
 
-### **Web & Mobile**
+- **UniPM** — Preventive maintenance with offline inspections, role-based workflows, and natural-language analytics.
+- **StudyLens** — Android learning app with OCR and AI study tools.
+- **Enverga Arena** — Athletics management with verified tryouts, results, and reviewed AI recaps.
+- **FlowTrack** — Offline-first Flutter app for sales, inventory, credit tracking, and reporting.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+## Currently Learning
 
-### **Data & Deployment**
+Backend engineering · C# · Database internals · Computer science fundamentals · Agentic software engineering
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![OpenRouteService](https://img.shields.io/badge/OpenRouteService-4B8C42?style=flat)
+## GitHub Activity
 
-### **Certification**
+[Philippines GitHub contributor ranking](https://committers.top/philippines.html) ·
+![Profile views](https://komarev.com/ghpvc/?username=ur1el0&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
 
-Microsoft Certified: Azure Fundamentals (AZ-900) — 2026
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=ur1el0&theme=github-dark&hide_border=true"
+    alt="GitHub streak"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ur1el0&theme=github_dark&exclude=HTML,CSS"
+    alt="Most used languages by commits"
+    width="35%"
+  />
+</p>
+
+## Links
+
+[Portfolio](https://roosc-zano.vercel.app) · [LinkedIn](https://www.linkedin.com/in/roosc-za%C3%B1o-08568a357/) · [Email](mailto:zanoroosc@gmail.com)
