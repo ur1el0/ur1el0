@@ -22,7 +22,7 @@ In 2026, I completed the Open iT Applied Full Stack Development Bootcamp as a To
     height="180"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ur1el0&hide_progress&theme=transparent&hide_border=true&layout=compact&langs_count=5&hide=css,html"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ur1el0&hide_progress&theme=transparent&hide_border=true&layout=compact&langs_count=6&hide=css,html"
     alt="Top Languages"
     height="180"
   />
