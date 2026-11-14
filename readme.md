@@ -15,33 +15,24 @@ In 2026, I completed the Open iT Applied Full Stack Development Bootcamp as a To
 
 ## GitHub Stats
 
-<table align="center" border="0" style="border-collapse: collapse;">
-  <tr>
-    <td style="padding: 10px; text-align: center;">
-      <img
-        src="https://github-stats-extended.vercel.app/api?username=ur1el0&show_icons=true&theme=transparent&hide_border=true&include_all_commits=false"
-        alt="GitHub Stats"
-        style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0 auto"
-      />
-    </td>
-  </tr>
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=ur1el0&show_icons=true&theme=transparent&hide_border=true&include_all_commits=false"
+    alt="GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ur1el0&hide_progress&theme=transparent&hide_border=true&layout=compact&langs_count=5&hide=css,html"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
 
-  <tr>
-    <td style="padding: 10px; text-align: center;">
-      <img
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=ur1el0&hide_progress&theme=transparent&hide_border=true&layout=compact&langs_count=8&exclude&hide=css,html"
-        alt="Top Languages"
-        style="width: 100%; max-width: 305px; height: auto; display: block; margin: 0 auto"
-      />
-    </td>
-  </tr>
-
-  <tr>
-    <td style="padding: 10px; text-align: center;">
-      <a href="https://ghcommits.com/u/ur1el0"><img src="https://ghcommits.com/api/badge/ur1el0.svg" alt="GitHub Commits Badge" /></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://ghcommits.com/u/ur1el0">
+    <img src="https://ghcommits.com/api/badge/ur1el0.svg" alt="GitHub Commits Badge" height="28" />
+  </a>
+</p>
 
 ---
 
